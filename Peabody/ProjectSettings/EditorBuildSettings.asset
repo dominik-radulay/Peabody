@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/SwipePrototype/Level0.unity
+    guid: 59379b566b9ac1742a61aeea613de09a
+  - enabled: 1
+    path: Assets/Scenes/SwipePrototype/Level1.unity
+    guid: 3484b6d093032d04198d89a8ba8ce699
+  - enabled: 1
+    path: Assets/Scenes/SwipePrototype/Level2.unity
+    guid: 312415f43a226cd45939b9718d6eefdb
+  - enabled: 1
+    path: Assets/Scenes/SwipePrototype/Level3.unity
+    guid: ea51bec5e2d23514bb03aa66eec6935a
+  - enabled: 1
+    path: Assets/Scenes/SwipePrototype/Level4.unity
+    guid: df1d4edd4ddf30548ac27bf6ff2f342a
+  - enabled: 1
+    path: Assets/Scenes/SwipePrototype/Level5.unity
+    guid: d2c638a97924d0640a84967651403b3c
+  - enabled: 1
+    path: Assets/Scenes/SwipePrototype/Level6.unity
+    guid: 69ccd6cd5a65f364aa1080bf62a715d3
+  - enabled: 1
+    path: Assets/Scenes/SwipePrototype/Level7.unity
+    guid: ae02c5aac515af448acbbac4f23e8cef
+  - enabled: 1
+    path: Assets/Scenes/SwipePrototype/Level8.unity
+    guid: be68f9b4e8237d747a5a715832a7b302
+  - enabled: 1
+    path: Assets/Scenes/SwipePrototype/Level9.unity
+    guid: d16458c5118455b49bfbbf0d01321ef0
+  - enabled: 1
+    path: Assets/Scenes/SwipePrototype/Level10.unity
+    guid: 5afc76d9d8c835c4eaa4f189324c5bac
+  - enabled: 1
+    path: Assets/Scenes/SwipePrototype/Level11.unity
+    guid: bb6a8acbc28df0f44bd8823b0ad0461e
+  - enabled: 1
+    path: Assets/Scenes/SwipePrototype/Level12.unity
+    guid: c0ee82cc4636ad24ca155fc780721f84
+  - enabled: 1
+    path: Assets/Scenes/Form.unity
+    guid: 15a8fe482a205d140ad0c8b27d6de9b8
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 00b8578da7631224bb8c6bced0f0bc58, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1127e5fd699136e42bd3cd43dc3db70e, type: 2}
