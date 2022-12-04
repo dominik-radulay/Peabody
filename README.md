@@ -7,3 +7,5 @@ The game has various types of blocks, each of which has a particular reaction wi
 some will crack when Peabody landed on them, moving the player one row lower, while others can kill the character, forcing the level to be restarted.
 
 Game available at: https://play.google.com/store/apps/details?id=com.DominikRadulay.com.Peabody
+
+NOTE: C# files are located at: \Peabody\Assets\Scripts
