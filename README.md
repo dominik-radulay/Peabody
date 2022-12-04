@@ -6,6 +6,8 @@ In this game, the player is given a character named Peabody, who is moved across
 The game has various types of blocks, each of which has a particular reaction with the player; 
 some will crack when Peabody landed on them, moving the player one row lower, while others can kill the character, forcing the level to be restarted.
 
+More infomrations can be find in project documentation which was created from reduced project report.
+
 Game available at: https://play.google.com/store/apps/details?id=com.DominikRadulay.com.Peabody
 
 
