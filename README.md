@@ -8,4 +8,7 @@ some will crack when Peabody landed on them, moving the player one row lower, wh
 
 Game available at: https://play.google.com/store/apps/details?id=com.DominikRadulay.com.Peabody
 
-NOTE: C# files are located at: \Peabody\Assets\Scripts
+
+-----------------------------------------------
+NOTE: 
+C# files are located at: \Peabody\Assets\Scripts
